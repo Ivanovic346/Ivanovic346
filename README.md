@@ -7,11 +7,6 @@
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Html%2BCSS3&color=0d1117)
 
 
-
-### ⚙️  GitHub Analytics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivanovic346&theme=dark&border_color=0d1117&bg_color=0d1117)
-
 ### ⚙️  Open Source
 
 
