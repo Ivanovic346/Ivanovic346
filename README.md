@@ -5,13 +5,3 @@
 ### 🛠  Tech Stack
 
 ![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Html%2BCSS3&color=0d1117)
-
-
-### ⚙️  Open Source
-
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xoheveras&repo=Xinoro&theme=dark&border_color=0d1117&bg_color=0d1117)](https://github.com/xoheveras/Xinoro)
-  
-</div>
