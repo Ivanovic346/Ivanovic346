@@ -4,4 +4,4 @@
 
 ### 🛠  Tech Stack
 
-![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Html%2BCSS3&SASS%C#&color=0d1117)
+![Profile views](https://img.shields.io/static/v1?style=for-the-badge&label=&message=Html%2BCSS3&2BSASS%2BC#&color=0d1117)
